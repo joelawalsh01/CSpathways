@@ -8,7 +8,7 @@ Please email me if you have any questions. joelawalsh@gmail.com
 
 I will keep adding to this.
 
-If you can't find local data in the database, especiall BY RACE, please by all means take it to the streets. 
+If you can't find local data in the database, especially stop data by race, please by all means take it to the streets. 
 
 
 -Joel 
