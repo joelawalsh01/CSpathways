@@ -1,5 +1,5 @@
 numpy
 matplotlib
 ipython
-statsmodels.api
+statsmodels
 pandas
